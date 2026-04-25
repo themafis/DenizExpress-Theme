@@ -1,0 +1,30 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/backup*/
+*.sql
+*.gz
+
+# Preview dosyaları (sadece geliştirme için)
+preview.html
+preview-*.html
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (eğer kullanılıyorsa)
+node_modules/
+npm-debug.log
+
+# Geçici dosyalar
+*.tmp
+*.log
