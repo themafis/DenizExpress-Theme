@@ -162,6 +162,7 @@ E-postaların spama düşmemesi için **WP Mail SMTP** eklentisini kur ve SMTP b
 ## 📄 Lisans
 
 Bu tema [GNU General Public License v2](http://www.gnu.org/licenses/gpl-2.0.html) lisansı altında dağıtılmaktadır.
+> Logo veya markaya ait bilgileri kullanmayınız
 
 ---
 
