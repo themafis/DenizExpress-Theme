@@ -1,4 +1,4 @@
-# DNZ Express — WordPress Kurye Teması
+# DNZ Express — WordPress Delivery Theme
 
 <div align="center">
 
